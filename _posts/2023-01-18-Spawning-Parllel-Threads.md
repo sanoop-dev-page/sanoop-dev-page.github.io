@@ -6,7 +6,8 @@ tags: [compilation]     # TAG names should always be lowercase
 author: sanoop
 ---
 
-# Spawning parallel threads - join only once all processes are completed
+# Spawning parallel threads
+### Join only once all processes are completed
 
 
 ```verilog
