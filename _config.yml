@@ -21,13 +21,13 @@ timezone: london
 
 title: DV tid-bits                          # the main title
 
-tagline: Byte sized thoughts on DV   # it will display as the sub-title
+tagline: Byte sized notes on ASIC Design Verification   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   ...
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'sanoop-dev-page.github.io'
+url: 'sanoop.dev'
 
 github:
   username:              # change to your github username
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 
+  name: Sanoop
   email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
