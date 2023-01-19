@@ -1,13 +1,12 @@
 ---
-title: 
+title: Spawning Parallel Threads
 date: 2023-01-18 
 categories: [SYSTEMVERILOG]
 tags: [fork]     # TAG names should always be lowercase
 author: sanoop
 ---
 
-# Spawning parallel threads
-Scenario: Join only once all processes are completed
+Scenario: Join once all processes are completed
 
 
 ```verilog
