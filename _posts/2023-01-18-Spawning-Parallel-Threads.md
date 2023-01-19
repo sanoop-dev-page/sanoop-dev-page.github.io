@@ -25,5 +25,5 @@ fork
 join
 ```
 
->The automatic keyword holds the key in this implementation. Without it, at the time of executing the inner block, the iter variable will hold the final value the -loop_count variable 
+>The `automatic` keyword holds the key in this implementation. Without it, at the time of executing the inner block, the iter variable will hold the final value the -loop_count variable 
 {: .prompt-info }
