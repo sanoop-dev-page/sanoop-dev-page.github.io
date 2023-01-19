@@ -6,7 +6,7 @@ tags: [fork]     # TAG names should always be lowercase
 author: sanoop
 ---
 
-Scenario: Join once all processes are completed
+Scenario: Join once all processes are completed, with each thread getting its own thread id.
 
 
 ```verilog
