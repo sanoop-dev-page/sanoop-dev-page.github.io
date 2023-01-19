@@ -7,7 +7,7 @@ author: sanoop
 ---
 
 # Spawning parallel threads
-### Join only once all processes are completed
+Scenario: Join only once all processes are completed
 
 
 ```verilog
