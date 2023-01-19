@@ -13,7 +13,7 @@ Scenario: Join only once all processes are completed
 ```verilog
 fork 
   begin : outer_thread //this holds the parent process that spawns the childs 
-    for(int loop_count=0;loop_count<14;loop_count++)begin : inner_loop //the actual for loop
+    for(int loop_count=0;loop_count<10;loop_count++)begin : inner_loop //the actual for loop
       fork
         automatic int iter=loop_count; 
         begin
