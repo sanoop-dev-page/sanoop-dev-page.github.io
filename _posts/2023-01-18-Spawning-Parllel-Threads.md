@@ -2,7 +2,7 @@
 title: 
 date: 2023-01-18 
 categories: [SYSTEMVERILOG]
-tags: [compilation]     # TAG names should always be lowercase
+tags: [fork]     # TAG names should always be lowercase
 author: sanoop
 ---
 
