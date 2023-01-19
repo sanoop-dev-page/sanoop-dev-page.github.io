@@ -17,7 +17,7 @@ fork
       fork
         automatic int iter=loop_count; 
         begin
-        	`uvm_info("", $sformatf("my thread id is %0d", iter), UVM_NONE);
+          `uvm_info("", $sformatf("my thread id is %0d", iter), UVM_NONE);
         end
       join_none;
     end : inner_loop
