@@ -6,7 +6,7 @@ tags: [sequencer]     # TAG names should always be lowercase
 author: sanoop
 ---
 
-The `m_sequencer` handle, belonging to a sequence is of base class type of the customized sequencer. So If we would like to access the properties of the customized sequencer, we need to cast the `m_sequencer` to the `p_sequencer` by using
+The `m_sequencer` handle, belonging to a sequence is of base class type of the customized sequencer. So If we would like to access the properties of the customized sequencer, we need to cast the `m_sequencer` to the `p_sequencer`  using
 ```verilog
 `uvm_declare_p_sequencer(<custom_seqr's_name>)
 ```

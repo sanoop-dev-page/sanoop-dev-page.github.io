@@ -5,8 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
 VLSI design verification has been one of the hot topic in semiconductor industry in the past decade. As the physical limits of IC fabrication has been pushed to the limits, the complexity of the underlying design is ever increasing. Resulting in ~2X difficulty in verifying the design and architecture, for the each generation of the product. 
-I hope this website will help you with some quick turn-key solutions to not-so-common DV tasks. 
+I hope this website will help with some quick turn-key solutions to not-so-common DV tasks for all those newbies out there.
 
-Thanks!
+Cheers!
