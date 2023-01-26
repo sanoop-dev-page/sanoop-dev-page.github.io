@@ -19,7 +19,7 @@ timezone: london
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: DV tid-bits                          # the main title
+title: How I DV.                          # the main title
 
 tagline: Byte sized notes on ASIC Design Verification   # it will display as the sub-title
 
