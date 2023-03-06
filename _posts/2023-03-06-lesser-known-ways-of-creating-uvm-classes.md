@@ -22,6 +22,9 @@ This can be achieved using only few lines of code, for eg-
 ```verilog
 uvm_factory factory;
 factory = uvm_factory::get();
-$cast(base_class_h,factory.create_object_by_name(child_class_name, "" ,"child_class_h" ));
+$cast(base_class_h,factory.create_object_by_name(var_that_holds_child_class_name, "" ,"child_class_type_name" ));
 ```
 More on this in another post.
+
+> This will work only if the components/objects are registered with the uvm factory while declaring.
+{: .prompt-warning }
