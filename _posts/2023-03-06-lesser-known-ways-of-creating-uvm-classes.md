@@ -2,7 +2,7 @@
 title: Lesser known ways of creating uvm classes.
 date: 2023-03-06 
 categories: [UVM]
-tags: [UVM]     # TAG names should always be lowercase
+tags: [factory]     # TAG names should always be lowercase
 author: sanoop
 ---
 
